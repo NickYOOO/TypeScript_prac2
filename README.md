@@ -1,7 +1,7 @@
 # TypeScript_prac2
 
 <aside>
-<img src="/icons/forward_orange.svg" alt="/icons/forward_orange.svg" width="40px" /> 프로젝트 세팅🙂
+프로젝트 세팅🙂
 
 1. 프로그램이 위치할 프로젝트 디렉토리를 새로 만들기
 
